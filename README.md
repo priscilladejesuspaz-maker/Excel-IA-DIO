@@ -7,9 +7,9 @@ A planilha organiza aportes mensais, taxa de rendimento e período de investimen
 
 ## Ferramentas utilizadas
 - Função VF (Valor Futuro)
-- Fórmulas básicas (soma, média e porcentagem)
+- Fórmulas básicas (soma, procv e porcentagem)
 - Simulação de cenários
-- Organização dos dados em abas (Base, Resumo e Simulador)
+- Organização dos dados em abas (Base, Resumo e Simulador, Validação de Dados)
 
 ## Observação
 Os cálculos consideram a taxa real de rendimento, mesmo quando o Excel exibe valores arredondados.
